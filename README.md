@@ -1,4 +1,4 @@
-<h2 align="center">Hi there　</h1>
+<h2 align="left">Hi there</h1>
 I'm Snails8
 
 <h3 align="left">Languages and Tools:</h3>
