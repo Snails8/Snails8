@@ -1,7 +1,7 @@
 ## Hello I'm Snail 🐚
 
-### skills 
-- php/Laravel
+### Skills 
+- PHP/Laravel
 - Ruby/Ruby on Rails
 - JavaScript/TypeScript/React.js/Vue.js
 - AWS/Terraform/Heroku
@@ -13,5 +13,5 @@ interested in Go, GraphQL, React 😇
 - 🏃 Sprinter 
 - 🍅 Gardening 
 - 🐟 Aquarium 
-- 🎮 Game 
+- 🎮 Game    😋FromSoftware&CAPCOM
 - 📚 Learning 
