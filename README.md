@@ -7,7 +7,7 @@
 - AWS/Terraform/Heroku
 - Docker
 
-interested in Go, GraphQL, React 😇
+interested in Go, Rust, GraphQL, React 😇
 
 ### Hobby ⭐
 - 🏃 Sprinter 
