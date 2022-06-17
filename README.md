@@ -1,13 +1,14 @@
 ## Hello I'm Snail 🐚
 
 ### Skills 🐟
-- PHP/Laravel
-- Ruby/Ruby on Rails
-- JavaScript/TypeScript/React.js/Vue.js
+- PHP、Ruby
+- Go
+- TypeScript
+- JavaScript (React.js/Vue.js)
 - AWS/Terraform/Heroku
 - Docker
 
-interested in Python, Rust, GraphQL, TypeScript, Go, k8s 😇
+interested in Python, TypeScript, GC, k8s 😇
 
 ### Hobby ⭐
 - 🏃 Sprinter 
