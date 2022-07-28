@@ -1,9 +1,7 @@
 ## Hello I'm Snail 🐚
 
 ### Skills 🐟
-- PHP、Ruby
-- Go
-- TypeScript
+- PHP, Ruby, Go, TypeScript
 - JavaScript (React.js/Vue.js)
 - AWS/Terraform/Heroku
 - Docker
