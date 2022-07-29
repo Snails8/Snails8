@@ -15,10 +15,10 @@ interested in Python, TypeScript 😇
 - 🎮 Game    😋FromSoftware & CAPCOM
 - 📚 Learning 
 
-### 強み
-- 不確実性が高い状況でも率先して行動できる
-- どんな領域にも線をひかず柔軟に適応してアウトプットを出せる
-- 全体を俯瞰した上で、行動できる
+### strengths
+- Able to take initiative in situations of uncertainty
+- Flexible to adapt and produce output without drawing lines in any area.
+- Able to act from a holistic perspective
 
 <details><summary>2022 todo...</summary>
   
