@@ -6,7 +6,7 @@
 - AWS/Terraform/Heroku
 - Docker
 
-interested in Python, TypeScript, GC, k8s 😇
+interested in Python, TypeScript 😇
 
 ### Hobby ⭐
 - 🏃 Sprinter 
@@ -15,10 +15,10 @@ interested in Python, TypeScript, GC, k8s 😇
 - 🎮 Game    😋FromSoftware & CAPCOM
 - 📚 Learning 
 
-### Learning from last year 🌼
-- If you don't act immediately on what you want to do, you will never be able to do it.
-- Your value is always due to the people around you
-- It's always better to be friendly and smile to everyone
+### 強み
+- 不確実性が高い状況でも率先して行動できる
+- どんな領域にも線をひかず柔軟に適応してアウトプットを出せる
+- 全体を俯瞰した上で、行動できる
 
 <details><summary>2022 todo...</summary>
   
