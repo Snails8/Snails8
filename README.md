@@ -12,7 +12,7 @@ interested in Python, TypeScript 😇
 - 🏃 Sprinter 
 - 🍅 Gardening 
 - 🐟 Aquarium 
-- 🎮 Game    😋FromSoftware & CAPCOM
+- 🎮 Game   
 - 📚 Learning 
 
 ### strengths
@@ -20,50 +20,17 @@ interested in Python, TypeScript 😇
 - Flexible to adapt and produce output without drawing lines in any area.
 - Able to act from a holistic perspective
 
-<details><summary>2022 todo...</summary>
-  
-### Backend
+<details><summary>2023 thema</summary>
 
-Learn multiple languages, deepen knowledge of DB, architecture, and algorithms, and acquire the expertise to compete on the front line and contribute to development efficiency.
+2022年は手段を大きく広げた年だった。さまざまな経験をすることでアプリケーション領域であればいい感じに動けるようになってきたしデータを使う知見も増えた。
+その中で受託開発もしたし、業界大手のソリューションの開発に関わったり、プロダクト開発も行った。
+しかし、プロダクト開発がうまくいった・世の中の課題を解決できたなどといったことに繋げることはできなかった。
+それには多くの理由があるが、自分自身の力不足でもあったからだ。
 
-- [ ]  Creating an automated development platform for Laravel
-- [ ]  Hanami
-- [ ]  Python
-- [ ]  Go
-- [ ]  TypeScript (Nest.js)
-- [ ]  Rust
-- [ ]  Creating an application that introduces the BFF layer
-- [ ]  Increase DB knowledge to reach educational level
-- [ ]  Creation of test environment and test automation tools, including E2E
-- [ ]  Complete understanding of object-oriented and clean architecture
-- [ ]  Creating applications to be implemented with DDD
-- [ ]  Creating microservice applications
-- [ ]  Engage in or reach the development of large-scale services
-- [ ]  Squeezed in a harsh environment
-  
-### Frontend
+エンジニアである以上技術力は磨き続けるがこのままではキャリアで一貫して取り組んできた「世の中の課題をエンジニアリングで解決できる人」にはなれない気がする。
 
-This year, I'll keep it low. Catch up with the latest trends, increase my knowledge to a level where I can provide value through personal development, and acquire enough knowledge to make it easy for front-end engineers to work on.
+2023年では、DS領域を含む技術力を向上させるだけでなく世の中の課題に対してエンジニアリングの力を使いある一定の成功を掴みたい。
+そのためにプロダクト開発に関わる開発を本業だけでなく副業で行ってみたり個人で作ってみたり、そういう挑戦をたくさんしてみる。
 
-- [ ]  Acquire knowledge of state management using Redux, swr, etc.
-- [ ]  Understanding the ideal system for json processing
-- [ ]  Drafting of architecture configuration  
-
-### infra
-
-Although it is not as good as SRE, I will master the basic configuration and knowledge up to k8s in order to connect to the backend.
-
-- [ ]  Building an EKS Configuration
-- [ ]  Drafting a microservice configuration
-- [ ]  Building the infrastructure configuration for front-end applications
-- [ ]  GCP knowledge acquisition and construction
-  
-### Machine learning
-
-Increase knowledge to connect web and data. Understand and acquire peripheral knowledge as needed.
-
-- [ ]  Acquire or clarify enough knowledge to keep up with the general conversation.
-- [ ]  Create a simple model for it.
-- [ ]  Create a sample involving infrastructure such as GCP
-  
+来年このメッセージを見た時に、ちゃんとやれたから成功したんだと思えるような過ごし方をしたい。
 </details>
