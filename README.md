@@ -1,9 +1,9 @@
 ## Hello I'm Snail 🐚
 
-## Skill & Career  🐟
+### Skill & Career  🐟
 - [LinkedIn](https://www.linkedin.com/in/kaito-suzuki-17023b255/)
 
-## Hobby ⭐
+### Hobby ⭐
 - 🏃 Sprint
 - 🐟 Aquarium 
 - 🍅 Gardening 
