@@ -1,7 +1,8 @@
 ## Hello I'm Snail 🐚
 
-### Skill & Career  🐟
+### links  🐟
 - [LinkedIn](https://www.linkedin.com/in/kaito-suzuki-17023b255/)
+- [blog](https://snails-blog.netlify.app/)
 
 ### Hobby ⭐
 - 🏃 Sprint
