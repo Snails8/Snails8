@@ -2,7 +2,7 @@
 
 ### links  🐟
 - [LinkedIn](https://www.linkedin.com/in/kaito-suzuki-17023b255/)
-- [blog](https://snails-blog.netlify.app/)
+- [blog](https://blog-khaki-beta.vercel.app/)
 
 ### Hobby ⭐
 - 🏃 Sprint
